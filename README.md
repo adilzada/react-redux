@@ -1,1 +1,2 @@
-# react-redux
+# I'm Adilzada.
+this my react-redux project
